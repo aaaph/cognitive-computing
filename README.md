@@ -1,1 +1,5 @@
-﻿# Cognitive Computing (CC)
+﻿# About repository
+
+# Stages
+
+# About author
